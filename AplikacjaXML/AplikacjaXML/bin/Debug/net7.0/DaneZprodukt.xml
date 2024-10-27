@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <produkt>
+    <id_produkt>1</id_produkt>
+    <waga>20</waga>
+    <wielkosc>2</wielkosc>
+    <rodzaj>opakowanie</rodzaj>
+    <data_waznosci>2018-10-05T00:00:00+02:00</data_waznosci>
+    <dostawy_id_dostawy>1</dostawy_id_dostawy>
+  </produkt>
+  <produkt>
+    <id_produkt>2</id_produkt>
+    <waga>30</waga>
+    <wielkosc>3</wielkosc>
+    <rodzaj>opakowanie szklane</rodzaj>
+    <data_waznosci>2019-10-05T00:00:00+02:00</data_waznosci>
+    <dostawy_id_dostawy>1</dostawy_id_dostawy>
+  </produkt>
+  <produkt>
+    <id_produkt>3</id_produkt>
+    <waga>50</waga>
+    <wielkosc>4</wielkosc>
+    <rodzaj>karton</rodzaj>
+    <data_waznosci>2020-10-05T00:00:00+02:00</data_waznosci>
+    <dostawy_id_dostawy>1</dostawy_id_dostawy>
+  </produkt>
+  <produkt>
+    <id_produkt>4</id_produkt>
+    <waga>120</waga>
+    <wielkosc>5</wielkosc>
+    <rodzaj>paleta</rodzaj>
+    <data_waznosci>2019-10-05T00:00:00+02:00</data_waznosci>
+    <dostawy_id_dostawy>2</dostawy_id_dostawy>
+  </produkt>
+  <produkt>
+    <id_produkt>5</id_produkt>
+    <waga>20</waga>
+    <wielkosc>2</wielkosc>
+    <rodzaj>opakowanie</rodzaj>
+    <data_waznosci>2019-10-05T00:00:00+02:00</data_waznosci>
+    <dostawy_id_dostawy>2</dostawy_id_dostawy>
+  </produkt>
+</NewDataSet>
