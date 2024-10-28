@@ -1,0 +1,3 @@
+# Aplikacja XML
+
+# Generator Danych
